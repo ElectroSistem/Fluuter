@@ -108,7 +108,7 @@ class _HomeadminState extends State<Homeadmin> {
           isInternet=true;
 
         });
-        print("==============I am connected to a mobilejjjjjj network.");
+        print("==============I am connected to a mobile network.");
 
       } else if (result == ConnectivityResult.wifi) {
         // I am connected to a wifi network.
